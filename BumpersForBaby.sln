@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BumpersForBabyTests", "BumpersForBabyTests\BumpersForBabyTests.csproj", "{CA0CF620-E06C-4942-9E8F-016A60EAF5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{C8DBB8A5-9190-49DF-A67C-4B0998105899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0CF620-E06C-4942-9E8F-016A60EAF5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0CF620-E06C-4942-9E8F-016A60EAF5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0CF620-E06C-4942-9E8F-016A60EAF5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0CF620-E06C-4942-9E8F-016A60EAF5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DBB8A5-9190-49DF-A67C-4B0998105899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DBB8A5-9190-49DF-A67C-4B0998105899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DBB8A5-9190-49DF-A67C-4B0998105899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DBB8A5-9190-49DF-A67C-4B0998105899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
