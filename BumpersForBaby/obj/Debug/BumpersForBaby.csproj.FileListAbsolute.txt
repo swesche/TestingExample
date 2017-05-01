@@ -1,0 +1,6 @@
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\bin\Debug\BumpersForBaby.exe.config
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\bin\Debug\BumpersForBaby.exe
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\bin\Debug\BumpersForBaby.pdb
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\obj\Debug\BumpersForBaby.csprojResolveAssemblyReference.cache
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\obj\Debug\BumpersForBaby.exe
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\BumpersForBaby\obj\Debug\BumpersForBaby.pdb

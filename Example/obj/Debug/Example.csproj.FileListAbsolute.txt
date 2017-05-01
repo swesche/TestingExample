@@ -1,0 +1,16 @@
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\Example\bin\Debug\Example.dll
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\Example\bin\Debug\Example.pdb
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\Example\obj\Debug\Example.dll
+c:\users\swesche\documents\visual studio 2015\Projects\BumpersForBaby\Example\obj\Debug\Example.pdb
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Common.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Communication.SocketClient.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Report.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.SDK.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.UnitTesting.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Verifications.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\WebSocket4Net.dll
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Report.xml
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.SDK.xml
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.UnitTesting.xml
+C:\Users\swesche\Documents\Visual Studio 2015\Projects\BumpersForBaby\Example\bin\Debug\HP.LFT.Verifications.xml
